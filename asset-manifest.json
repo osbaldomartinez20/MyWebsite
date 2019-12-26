@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/osbaldomartinez20.github.io/static/css/main.a3581aa2.chunk.css",
+    "main.js": "/osbaldomartinez20.github.io/static/js/main.ccf8e4dc.chunk.js",
+    "main.js.map": "/osbaldomartinez20.github.io/static/js/main.ccf8e4dc.chunk.js.map",
+    "runtime-main.js": "/osbaldomartinez20.github.io/static/js/runtime-main.bbfce124.js",
+    "runtime-main.js.map": "/osbaldomartinez20.github.io/static/js/runtime-main.bbfce124.js.map",
+    "static/js/2.c3f9974e.chunk.js": "/osbaldomartinez20.github.io/static/js/2.c3f9974e.chunk.js",
+    "static/js/2.c3f9974e.chunk.js.map": "/osbaldomartinez20.github.io/static/js/2.c3f9974e.chunk.js.map",
+    "index.html": "/osbaldomartinez20.github.io/index.html",
+    "precache-manifest.f927cad76c68f9ce283086ce92f1b4e2.js": "/osbaldomartinez20.github.io/precache-manifest.f927cad76c68f9ce283086ce92f1b4e2.js",
+    "service-worker.js": "/osbaldomartinez20.github.io/service-worker.js",
+    "static/css/main.a3581aa2.chunk.css.map": "/osbaldomartinez20.github.io/static/css/main.a3581aa2.chunk.css.map",
+    "static/js/2.c3f9974e.chunk.js.LICENSE": "/osbaldomartinez20.github.io/static/js/2.c3f9974e.chunk.js.LICENSE",
+    "static/media/download.png": "/osbaldomartinez20.github.io/static/media/download.db1d3647.png",
+    "static/media/logo.svg": "/osbaldomartinez20.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbfce124.js",
+    "static/js/2.c3f9974e.chunk.js",
+    "static/css/main.a3581aa2.chunk.css",
+    "static/js/main.ccf8e4dc.chunk.js"
+  ]
+}
