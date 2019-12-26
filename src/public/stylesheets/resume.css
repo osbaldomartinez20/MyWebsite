@@ -1,0 +1,6 @@
+@media screen and (min-width: 480px) {
+    embed {
+        width: 98.6vw;
+        height: 100vh;
+    }
+}
