@@ -27,7 +27,6 @@ const routing = (
             </nav>
             <Switch>
                 <Route exact path="/" component={App} />
-                <Route path="MyWebsite" component={App} />
                 <Route path="/about" component={About}/>
                 <Route path="/resume" component={Resume} />
                 <Route path="/transcript" component={Transcript} />

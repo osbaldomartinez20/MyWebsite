@@ -1,5 +1,6 @@
 import React from 'react'
 import logo from '../public/images/download.png';
+import {Link} from 'react-router-dom';
 import '../public/stylesheets/App.css';
 
 function About() {
@@ -13,6 +14,7 @@ function About() {
             minoring on Mathematics. I am a fast leraner and I like to challange myself by constantly
             learning new things.
           </p>
+          <br></br>
           <a
             className="App-link"
             href="https://github.com/osbaldomartinez20"
@@ -21,6 +23,12 @@ function About() {
           >
             My GitHub
           </a>
+          <p>
+            If you are interted in my academics checkout my unofficial transcript by clicking below.
+          </p>
+
+          <Link to="/transcript" className="boton">Transcript</Link>
+
         </header>
       </div>
     );
