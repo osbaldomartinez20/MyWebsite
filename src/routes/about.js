@@ -14,7 +14,6 @@ function About() {
             minoring on Mathematics. I am a fast leraner and I like to challange myself by constantly
             learning new things.
           </p>
-          <br></br>
           <a
             className="App-link"
             href="https://github.com/osbaldomartinez20"
@@ -23,6 +22,7 @@ function About() {
           >
             My GitHub
           </a>
+          <br></br>
           <p>
             If you are interted in my academics checkout my unofficial transcript by clicking below.
           </p>
